@@ -6,11 +6,11 @@
 ## Get apiKey, sessionId and token
 
 1. Signin your account
-2. Create a new project
-3. Get your apiKey on the top of the project page
+2. Create new project
+3. Get your `apiKey` on the top of the project page
 4. Scroll down to the bottom of the project page
-5. In Project Tools section, first create your session, that's your sessionId
-6. And copy the sessionId to the Generate Token section, set all the configs, then generate token, that's your token
+5. In Project Tools section, first create your session, that's your `sessionId`
+6. And copy the sessionId to the Generate Token section, set all the configs, then generate token, that's your `token`
 
 ## Coding
 
