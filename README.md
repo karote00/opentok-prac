@@ -20,7 +20,11 @@
 ## Run
 
 1. Install packages
+
 		npm i
+
 2. Run Server
+
 		npm start
+
 3. Open your page
