@@ -4,6 +4,7 @@
   "description": "OpenTok Practice",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/karote00/opentok-prac/issues"
   },
-  "homepage": "https://github.com/karote00/opentok-prac#readme"
+  "homepage": "https://github.com/karote00/opentok-prac#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "0.0.0"
+  }
 }
