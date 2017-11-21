@@ -1,0 +1,22 @@
+{
+  "name": "opentok-prac",
+  "version": "1.0.0",
+  "description": "OpenTok Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karote00/opentok-prac.git"
+  },
+  "keywords": [
+    "OpenTok"
+  ],
+  "author": "Asa Tsai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karote00/opentok-prac/issues"
+  },
+  "homepage": "https://github.com/karote00/opentok-prac#readme"
+}
