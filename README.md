@@ -30,5 +30,4 @@
 3. Open your page
 
   Publisher: https://karote00.github.io/opentok-prac/
-
   Subscriber: https://karote00.github.io/opentok-prac/sub.html
